@@ -36,7 +36,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "docco": "~0.6.2"
+    "docco": "git://github.com/jashkenas/docco.git#a35da0022a9d30071e03ae767bdc23edf31761e0"
   },
   "devDependencies": {
     "rimraf": "~2.0.2",
